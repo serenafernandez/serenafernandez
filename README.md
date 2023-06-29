@@ -1,9 +1,4 @@
-<style>
-    *{
-        font-family: "Lucida Handwriting", "Courier New", monospace;
-    }
-</style>
-<p align = center><a href="https://imgur.com/uslNstI"><img src="https://i.imgur.com/uslNstI.png" title="source: imgur.com" width= "250" /></a> </p>
+<p align = center><a href="https://imgur.com/C7Iq8ib"><img src="https://i.imgur.com/C7Iq8ib.png" title="source: imgur.com" width= "300"/></a> </p>
 
 <div>
 
